@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|c:\\users\\bruno\\onedrive\\documentos\\ds-modular\\pw3\\novo_apenas_esse\\exemploprojeto\\exemploprojeto\\exemploprojeto\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|solutionrelative:exemploprojeto\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|c:\\users\\bruno\\onedrive\\documentos\\ds-modular\\pw3\\novo_apenas_esse\\exemploprojeto\\exemploprojeto\\exemploprojeto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|solutionrelative:exemploprojeto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|c:\\users\\bruno\\onedrive\\documentos\\ds-modular\\pw3\\novo_apenas_esse\\exemploprojeto\\exemploprojeto\\exemploprojeto\\models\\atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|solutionrelative:exemploprojeto\\models\\atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|c:\\users\\bruno\\onedrive\\documentos\\ds-modular\\pw3\\novo_apenas_esse\\exemploprojeto\\exemploprojeto\\exemploprojeto\\views\\edicao\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|solutionrelative:exemploprojeto\\views\\edicao\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|c:\\users\\bruno\\onedrive\\documentos\\ds-modular\\pw3\\novo_apenas_esse\\exemploprojeto\\exemploprojeto\\exemploprojeto\\models\\edicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|solutionrelative:exemploprojeto\\models\\edicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|c:\\users\\bruno\\onedrive\\documentos\\ds-modular\\pw3\\novo_apenas_esse\\exemploprojeto\\exemploprojeto\\exemploprojeto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|solutionrelative:exemploprojeto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|c:\\users\\bruno\\onedrive\\documentos\\ds-modular\\pw3\\novo_apenas_esse\\exemploprojeto\\exemploprojeto\\exemploprojeto\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|solutionrelative:exemploprojeto\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|c:\\users\\bruno\\onedrive\\documentos\\ds-modular\\pw3\\novo_apenas_esse\\exemploprojeto\\exemploprojeto\\exemploprojeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|solutionrelative:exemploprojeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|c:\\users\\bruno\\onedrive\\documentos\\ds-modular\\pw3\\novo_apenas_esse\\exemploprojeto\\exemploprojeto\\exemploprojeto\\controllers\\edicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|solutionrelative:exemploprojeto\\controllers\\edicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|c:\\users\\bruno\\onedrive\\documentos\\ds-modular\\pw3\\novo_apenas_esse\\exemploprojeto\\exemploprojeto\\exemploprojeto\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD861A1-B870-4D36-A118-552C207CF695}|ExemploProjeto\\ExemploProjeto.csproj|solutionrelative:exemploprojeto\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,55 +34,52 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Atleta.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Models\\Atleta.cs",
-              "RelativeDocumentMoniker": "ExemploProjeto\\Models\\Atleta.cs",
-              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Models\\Atleta.cs",
-              "RelativeToolTip": "ExemploProjeto\\Models\\Atleta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:17:45.825Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExemploProjeto\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExemploProjeto\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T19:41:55.249Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Edicao.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Models\\Edicao.cs",
-              "RelativeDocumentMoniker": "ExemploProjeto\\Models\\Edicao.cs",
-              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Models\\Edicao.cs",
-              "RelativeToolTip": "ExemploProjeto\\Models\\Edicao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:16:55.206Z",
-              "EditorCaption": ""
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ExemploProjeto\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ExemploProjeto\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T19:41:43.201Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Cidade.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Models\\Cidade.cs",
-              "RelativeDocumentMoniker": "ExemploProjeto\\Models\\Cidade.cs",
-              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Models\\Cidade.cs",
-              "RelativeToolTip": "ExemploProjeto\\Models\\Cidade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:16:44.756Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExemploProjeto\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExemploProjeto\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T19:40:49.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CidadeController.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Controllers\\CidadeController.cs",
-              "RelativeDocumentMoniker": "ExemploProjeto\\Controllers\\CidadeController.cs",
-              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Controllers\\CidadeController.cs",
-              "RelativeToolTip": "ExemploProjeto\\Controllers\\CidadeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:16:03.276Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Views\\Edicao\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "ExemploProjeto\\Views\\Edicao\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Views\\Edicao\\Detalhes.cshtml",
+              "RelativeToolTip": "ExemploProjeto\\Views\\Edicao\\Detalhes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T19:33:26.191Z"
             },
             {
               "$type": "Document",
@@ -96,23 +89,9 @@
               "RelativeDocumentMoniker": "ExemploProjeto\\Controllers\\EdicaoController.cs",
               "ToolTip": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Controllers\\EdicaoController.cs",
               "RelativeToolTip": "ExemploProjeto\\Controllers\\EdicaoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAgwGoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:15:00.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Database.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Data\\Database.cs",
-              "RelativeDocumentMoniker": "ExemploProjeto\\Data\\Database.cs",
-              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Documentos\\DS-MODULAR\\PW3\\NOVO_APENAS_ESSE\\ExemploProjeto\\ExemploProjeto\\ExemploProjeto\\Data\\Database.cs",
-              "RelativeToolTip": "ExemploProjeto\\Data\\Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T19:56:27.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T20:15:00.069Z"
             }
           ]
         }
