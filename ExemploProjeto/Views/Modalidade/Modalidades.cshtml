@@ -1,0 +1,38 @@
+﻿@model int
+@{
+    var atletas = ViewBag.Atletas as List<ExemploProjeto.Models.Atleta>;
+    var cidade = ViewBag.Cidade as string;
+}
+
+<h2>Atletas da cidade de @cidade</h2>
+
+@if (atletas != null && atletas.Any())
+{
+    <table border="1" cellpadding="5" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Data de Nascimento</th>
+                <th>Sexo</th>
+                <th>Modalidade</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var atleta in atletas)
+            {
+                <tr>
+                    <td>@atleta.NomeAtleta</td>
+                    <td>@atleta.DataNascimento</td>
+                    <td>@atleta.Sexo</td>
+                    <td>@atleta.Modalidade</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Nenhum atleta encontrado para essa cidade.</p>
+}
+
+<p><a href="/Cidade/Index">Voltar</a></p>

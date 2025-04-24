@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/bruno/OneDrive/Documentos/DS-MODULAR/PW3/NOVO_APENAS_ESSE/ExemploProjeto/ExemploProjeto/ExemploProjeto/Views/Cidade/Atletas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlXEF0bGV0YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/bruno/OneDrive/Documentos/DS-MODULAR/PW3/NOVO_APENAS_ESSE/ExemploProjeto/ExemploProjeto/ExemploProjeto/Views/Edicao/Atletas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpY2FvXEF0bGV0YXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -38,6 +42,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/bruno/OneDrive/Documentos/DS-MODULAR/PW3/NOVO_APENAS_ESSE/ExemploProjeto/ExemploProjeto/ExemploProjeto/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bruno/OneDrive/Documentos/DS-MODULAR/PW3/NOVO_APENAS_ESSE/ExemploProjeto/ExemploProjeto/ExemploProjeto/Views/Modalidade/Atletas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kYWxpZGFkZVxBdGxldGFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bruno/OneDrive/Documentos/DS-MODULAR/PW3/NOVO_APENAS_ESSE/ExemploProjeto/ExemploProjeto/ExemploProjeto/Views/Modalidade/Modalidades.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kYWxpZGFkZVxNb2RhbGlkYWRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/bruno/OneDrive/Documentos/DS-MODULAR/PW3/NOVO_APENAS_ESSE/ExemploProjeto/ExemploProjeto/ExemploProjeto/Views/Shared/Error.cshtml]

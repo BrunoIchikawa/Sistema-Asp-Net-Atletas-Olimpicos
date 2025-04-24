@@ -5,29 +5,30 @@ using MySql.Data.MySqlClient;
 
 namespace ExemploProjeto.Controllers
 {
-    public class CidadeController : Controller
+    public class ModalidadeController : Controller
     {
         private readonly Database db = new Database();
 
         public IActionResult Index()
         {
             return View();
-        }        
+        }
         public IActionResult Atletas(int id)
         {
             List<Atleta> atletas = new List<Atleta>();
-            string nomeCidade = "";
+            string nomeModalidade = "";
 
             using (var conn = db.GetConnection())
             {
+
                 string sql = @"
-                              SELECT a.codAtleta, a.nomeAtleta, a.dataNascimento, a.sexo,
-                              a.codModalidade, m.nomeModalidade, c.nomeCidade
-                              FROM atletas a
-                              JOIN modalidades m ON m.codModalidade = a.codModalidade
-                              JOIN cidades c ON c.codCidade = a.codCidade
-                              WHERE a.codCidade = @id
-                             ";
+                                SELECT a.codAtleta, a.nomeAtleta, a.dataNascimento, a.sexo,
+                                a.codModalidade, m.nomeModalidade, c.nomeCidade
+                                FROM atletas a
+                                JOIN modalidades m ON m.codModalidade = a.codModalidade
+                                JOIN cidades c ON c.codCidade = a.codCidade
+                                WHERE a.codModalidade = @id
+                               ";
 
                 var cmd = new MySqlCommand(sql, conn);
                 cmd.Parameters.AddWithValue("@id", id);
@@ -48,11 +49,13 @@ namespace ExemploProjeto.Controllers
                     }
                 }
 
-                nomeCidade = atletas.FirstOrDefault()?.CidadeNascimento ?? "Desconhecida";
+                nomeModalidade = atletas.FirstOrDefault()?.Modalidade ?? "Desconhecida";
             }
 
-            ViewBag.Cidade = nomeCidade;
+            ViewBag.Modalidade = nomeModalidade;
+
             return View(atletas);
         }
+
     }
 }

@@ -1,0 +1,35 @@
+﻿@model List<ExemploProjeto.Models.Atleta>
+
+
+<h2>Atletas da Modalidade: @ViewBag.Modalidade </h2>
+
+@if (Model != null && Model.Any())
+{
+    <table border="1">
+        <tr>
+            <th>Nome</th>
+            <th>Data de Nascimento</th>
+            <th>Sexo</th>
+            <th>Cidade</th>
+        </tr>
+        @foreach (var atleta in Model)
+        {
+            <tr>
+                <td>
+                    <a href="/Edicao/Detalhes/@atleta.CodAtleta">
+                        @atleta.NomeAtleta
+                    </a>
+                </td>
+                <td>@atleta.DataNascimento</td>
+                <td>@atleta.Sexo</td>
+                <td>@atleta.CidadeNascimento</td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <p>Nenhum atleta encontrado para esta modalidade.</p>
+}
+
+<p><a href="/Home/Index">Voltar ao início</a></p>
