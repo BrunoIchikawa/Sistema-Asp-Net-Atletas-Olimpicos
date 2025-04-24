@@ -25,6 +25,8 @@ CREATE TABLE modalidades (
   nomeModalidade varchar(255) not null
 );
 
+
+
 CREATE TABLE provas (
   codProva int primary key auto_increment not null,
   nomeProva varchar(255) not null,
@@ -111,6 +113,7 @@ INSERT INTO `estados` (`codEstado`, `nomeEstado`) VALUES
 (51, 'Sérvia'),
 (52, 'Uruguai'),
 (53, 'nan');
+
 
 
 insert into cidades (nomeCidade,codEstado) values
@@ -310,7 +313,170 @@ INSERT INTO edicao (ano, sede) VALUES
 (2020, 'Tóquio'),
 (2024, 'Paris'),
 (2028, 'Los Angeles'),
-(2032, 'Brisbane')
+(2032, 'Brisbane');
+
+insert into modalidades(nomeModalidade) values ("Futebol") ;
+insert into provas(nomeProva, codModalidade) values ("Futebol Masculino",2 ) ;
+
+select * from modalidades;
+select * from edicao;
+
+
+INSERT INTO atletas (nomeAtleta, dataNascimento, sexo, altura, peso, codCidade, codModalidade)
+VALUES ('Neymar da Silva Santos Júnior', '1992-02-05', 'M', 1.75, 68, 78,2);
+
+INSERT INTO modalidades (nomeModalidade) VALUES
+('Atletismo'),('Natação'),('Vôlei de Quadra'),('Vôlei de Praia');
+
+INSERT INTO provas (nomeProva, codModalidade) VALUES
+('10000m Feminino', 3),
+('10000m Masculino', 3),
+('100m Feminino', 3),
+('100m Masculino', 3),
+('100m com barreiras Feminino', 3),
+('110m com Barreiras Masculino', 3),
+('1500m Masculino', 3),
+('200m Feminino', 3),
+('200m Masculino', 3),
+('20km Marcha Atlética Feminina', 3),
+('20km Marcha Atlética Masculino', 3),
+('3000m com Obstáculos Feminino', 3),
+('3000m com Obstáculos Masculino', 3),
+('400m Feminino', 3),
+('400m Feminino Feminino', 3),
+('400m Masculino', 3),
+('400m com Barreiras Feminina', 3),
+('400m com Barreiras Feminino', 3),
+('400m com Barreiras Masculino', 3),
+('5000m Feminino', 3),
+('5000m Masculino', 3),
+('50km Marcha Atlética', 3),
+('60m Masculino', 3),
+('800m Feminino', 3),
+('800m Masculino', 3),
+('80m com Barreiras Feminino', 3),
+('Arremesso de Peso Feminino', 3),
+('Arremesso de Peso Masculino', 3),
+('Arremesso do Peso Masculino', 3),
+('Cross Country Masculino', 3),
+('Decatlon', 3),
+('Decatlon Masculino', 3),
+('Heptatlo Feminino', 3),
+('Lançamento de Dardo Feminino', 3),
+('Lançamento de Dardo Masculino', 3),
+('Lançamento de Disco Feminino', 3),
+('Lançamento de Disco Masculino', 3),
+('Lançamento do Dardo', 3),
+('Lançamento do Dardo Feminino', 3),
+('Lançamento do Disco Feminino', 3),
+('Lançamento do Disco Masculino', 3),
+('Lançamento do Martelo Masculino', 3),
+('Maratona Feminina', 3),
+('Maratona Masculina', 3),
+('Marcha Atletica Masculina 20km', 3),
+('Marcha Atlética 20 Km Feminino', 3),
+('Marcha Atlética 20 Km Masculino', 3),
+('Marcha Atlética 50 Km Masculino', 3),
+('Marcha Atlética Feminino 20km', 3),
+('Pentatlo Feminino', 3),
+('Revezamento 4 x 100m Feminino', 3),
+('Revezamento 4 x 100m Masculino', 3),
+('Revezamento 4 x 400 Masculino', 3),
+('Revezamento 4 x 400m Feminino', 3),
+('Revezamento 4 x 400m Masculino', 3),
+('Revezamento 4 x 400m Misto', 3),
+('Revezamento Marcha Atlética Misto', 3),
+('Revezametno 4 x 400m Masculino', 3),
+('Salto Triplo Feminino', 3),
+('Salto Triplo Masculino', 3),
+('Salto com Vara Feminino', 3),
+('Salto com Vara Masculino', 3),
+('Salto em Altura Feminino', 3),
+('Salto em Altura Masculino', 3),
+('Salto em Distância Feminino', 3),
+('Salto em Distância Masculino', 3);
 
 
 
+INSERT INTO provas (nomeProva, codModalidade) VALUES
+('100m Borboleta Feminino', 4),
+('100m Borboleta Masculino', 4),
+('100m Costas Feminino', 4),
+('100m Costas Masculino', 4),
+('100m Livre Feminino', 4),
+('100m Livre Masculino', 4),
+('100m Nado Livre Masculino', 4),
+('100m Peito Feminino', 4),
+('100m Peito Masculino', 4),
+('1500m Livre Feminino', 4),
+('1500m Livre Masculino', 4),
+('1500m Nado Livre', 4),
+('200m Borboleta Feminino', 4),
+('200m Borboleta Masculino', 4),
+('200m Costas Masculino', 4),
+('200m Livre Feminino', 4),
+('200m Livre Masculino', 4),
+('200m Medley Feminino', 4),
+('200m Medley Masculino', 4),
+('200m Nado Livre', 4),
+('200m Nado Livre Masculino', 4),
+('200m Peito Feminino', 4),
+('200m Peito Masculino', 4),
+('400m Livre Feminino', 4),
+('400m Livre Masculino', 4),
+('400m Medley Feminino', 4),
+('400m Medley Masculino', 4),
+('400m Nado Livre Feminino', 4),
+('400m Nado Livre Masculino', 4),
+('50m Livre Feminino', 4),
+('50m Livre Masculino', 4),
+('800m Livre Feminino', 4),
+('800m Livre Masculino', 4),
+('800m Nado Livre Feminino', 4),
+('800m Nado Livre Natação', 4),
+('Mixed 4 x 100m Medley Relay', 4),
+('Revezamento 4 x 100m Nado Livre Masculino', 4),
+('Revezamento 4 x 200m Nado Livre Masculino', 4),
+('Revezamento 4x100m Livre Feminino', 4),
+('Revezamento 4x100m Livre Masculino', 4),
+('Revezamento 4x100m Medley Feminino', 4),
+('Revezamento 4x100m Medley Masculino', 4),
+('Revezamento 4x100m Medley Misto', 4),
+('Revezamento 4x100m Nado Livre Feminino', 4),
+('Revezamento 4x200m Livre Feminino', 4),
+('Revezamento 4x200m Livre Masculino', 4),
+('Revezamento 4x200m Nado Livre Feminino', 4);
+
+insert into provas (nomeProva, codModalidade) values 
+("Masculino","5"),
+("Masculino","5"),
+("Feminino","6"),
+("Feminino","6");
+
+INSERT INTO `atletas` (`nomeAtleta`, `dataNascimento`, `sexo`, `altura`, `peso`, `codCidade`, `codModalidade`) VALUES
+('Adhemar Ferreira da Silva', '1927-09-29', 'M', 1.78, 69, 129, 3),
+('Aderval Luiz Arvani', '1949-01-07', 'M', 1.85, 80, 129, 5),
+('Stephanie Balduccini', '2004-09-20', 'F', 1.71, 61, 129, 4),
+('Thaissa Barbosa Presti', '1988-04-26', 'F', 1.68, 71, 129, 3),
+('Wanda dos Santos', '1932-06-01', 'F', 1.59, 60, 129, 3),
+('Manuel dos Santos Filho', '1939-02-22', 'M', 1.78, 75, 129, 4),
+('Marcelo Teles Negrão', '1972-10-10', 'M', 1.98, 90, 129, 5),
+('Fofão', '1970-03-10', 'F', 1.73, 63, 129, 5);
+
+
+INSERT INTO `resultadosatletas` (codAtleta, codProva,  edicao, resultado,medalha) VALUES
+(10, 133, 18, '3º Lugar', 'Bronze'),
+(10, 133, 19, '3º Lugar', 'Bronze'),
+(10, 133, 20, '4º Lugar', '0'),
+(10, 133, 21, '1º Lugar', 'Ouro'),
+(3, 78, 7, '1º Lugar', 'Ouro'),
+(3, 78, 8, '1º Lugar', 'Ouro'),
+(6, 69, 21, '3º Lugar', 'Bronze');
+
+
+select * from modalidades;
+select * from provas;
+
+select provas.nomeProva, modalidades.nomeModalidade
+from provas 
+inner join modalidades on modalidades.codModalidade = provas.codModalidade;
